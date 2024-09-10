@@ -30,7 +30,6 @@ Definimos como padrão que cada pasta dentro do nosso repositório pode estar re
 1. **Planejamento** : Antes de começar a escrever, planeje o conteúdo. Defina o objetivo, o público-alvo e os tópicos principais.
 2. **Pesquisa** : Pesquise referências e informações relevantes para enriquecer o conteúdo.
 3. **Revisão** : Revise o texto para corrigir erros gramaticais e de formatação.
-4. [ **SEO**](https://www.conversion.com.br/blog/producao-de-conteudo/) *.
 
 ### Pontos Positivos
 
