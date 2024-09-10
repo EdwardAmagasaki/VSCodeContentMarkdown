@@ -1,5 +1,5 @@
 
-## Desenvolvimento de Conteúdo para Plataformas Digitais com VS-Code & Markdown
+# Desenvolvimento de Conteúdo para Plataformas Digitais com VS-Code & Markdown
 
 ### Preparação do Conteúdo
 
